@@ -1,5 +1,3 @@
 # my_repo
 MSIG 21
-UNO
-DOS
-TRES
+
